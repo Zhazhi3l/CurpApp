@@ -9,7 +9,7 @@ namespace CurpApp
             InitializeComponent();
             GenerarCURP curpsita = new GenerarCURP();
             this.Controls.Add(curpsita);
-            curpsita.Location = new System.Drawing.Point(10, 10);
+            curpsita.Location = new System.Drawing.Point(10, 10); 
         }
 
     }
